@@ -7,4 +7,4 @@
 
 10. Create a new script on EC2 instance
 
-    <img src="images/12.png" width="120"/>
+   ### <img src="images/1.PNG"/>****
