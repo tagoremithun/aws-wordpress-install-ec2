@@ -1,1 +1,1 @@
-# aws-wordpress-install-ec2
+# aws-wordpress-install-ec2 instance
