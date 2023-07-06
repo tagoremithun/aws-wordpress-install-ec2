@@ -1,6 +1,6 @@
 # How to install wordpress on AWS ec2 instance using script
 1. Login your aws console
-<img src="images/1.PNG"/>
+
 2. Create new ec2 instance
 
 
