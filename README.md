@@ -1,12 +1,27 @@
 # How to install wordpress on AWS ec2 instance using script
-1. Login your aws console
-   <img src="images/1.PNG"/>
-2. Create new ec2 instance
+1. Login your aws console and follow the steps
+    <img src="images/1.PNG"/> <br />
+    <img src="images/2.PNG"/> <br />
+    <img src="images/3.PNG"/> <br />
+    <img src="images/4.PNG"/> <br />
+    <img src="images/5.PNG"/> <br />
+    <img src="images/6.PNG"/> <br />
+    <img src="images/7.PNG"/> <br />
+    <img src="images/8.PNG"/> <br />
+    <img src="images/8_1.PNG"/> <br />
+    <img src="images/8-2.PNG"/> <br />
+    <img src="images/8-3.PNG"/> <br />
+    <img src="images/8-4.png"/> <br /><br /><br />
+  2. Open Mobaxtreme or any othe tools and connect to the server <br />
+    <img src="images/9.PNG"/> <br />
+    <img src="images/11.PNG"/> <br />
 
-
-
-10. Create a new script on EC2 instance
-<<<<<<< HEAD
-=======
-
->>>>>>> 2ac7b6af0f1022f693b94b6ad908ff814a3a4fab
+ 3. Create file wordpress-install.sh <br />
+    <img src="images/12.PNG"/> <br />
+ 4. Copy this code on this file and run this script <br />
+    <a href="scripts/wordpress-install.sh"> wordpress-install </a> <br />
+    <img src="images/14.PNG"/> <br />  
+    <br /><br /><br /><br />
+  5. After successfull install <br />
+       <img src="images/output.PNG"/> <br /> <br />
+       <img src="images/final.PNG"/> <br />
